@@ -31,7 +31,7 @@ Feel free to fork the repository, suggest improvements, or raise issues for feat
 ## 📬 Contact
 Created by **Charul Khandelwal**  
 📧 charulkhandelwal2019@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/charul-khandelwal/)
+🔗 [LinkedIn](https://www.linkedin.com/in/charul-khandelwal-555963222//)
 
 ---
 *This project is for learning and demonstration purposes only.*
